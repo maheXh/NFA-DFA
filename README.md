@@ -1,9 +1,12 @@
 ### NFA to DFA Converter
-
+<br>
+<br>
 <div align="center">
   <img src="https://github.com/maheXh/NFA-DFA/assets/122071980/b4b4cf3b-655d-44cd-b051-69ebeaa11bd1" alt="NFA and DFA" style="transform:rotate(90deg);">
 </div>
 
+<br>
+<br>
 
 This Python script converts a Non-Deterministic Finite Automaton (NFA) to a Deterministic Finite Automaton (DFA) using the powerset construction method. It also provides visual representations of both the NFA and DFA using Graphviz.
 
@@ -90,7 +93,7 @@ This Python script converts a Non-Deterministic Finite Automaton (NFA) to a Dete
 
 3. Install the required Python dependencies:
 
-  [Dependencies](##Dependencies)
+      [Dependencies](#Dependencies)
 
 4. Run the script:
    ```
