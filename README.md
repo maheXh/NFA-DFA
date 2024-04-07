@@ -80,7 +80,7 @@ This Python script converts a Non-Deterministic Finite Automaton (NFA) to a Dete
 
 1. Clone the repository to your local machine:
    ```
-   git clone <repository-url>
+   git clone https://github.com/maheXh/NFA-DFA.git
    ```
 
 2. Navigate to the project directory:
@@ -89,9 +89,8 @@ This Python script converts a Non-Deterministic Finite Automaton (NFA) to a Dete
    ```
 
 3. Install the required Python dependencies:
-   ```
-   pip install pandas graphviz
-   ```
+
+  [Dependencies](##Dependencies)
 
 4. Run the script:
    ```
