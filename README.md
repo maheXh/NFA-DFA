@@ -1,6 +1,9 @@
 ### NFA to DFA Converter
 
-![NFA and DFA](https://github.com/maheXh/NFA-DFA/assets/122071980/b4b4cf3b-655d-44cd-b051-69ebeaa11bd1)
+<div align="center">
+  <img src="https://github.com/maheXh/NFA-DFA/assets/122071980/b4b4cf3b-655d-44cd-b051-69ebeaa11bd1" alt="NFA and DFA" style="transform:rotate(90deg);">
+</div>
+
 
 This Python script converts a Non-Deterministic Finite Automaton (NFA) to a Deterministic Finite Automaton (DFA) using the powerset construction method. It also provides visual representations of both the NFA and DFA using Graphviz.
 
@@ -15,7 +18,28 @@ This Python script converts a Non-Deterministic Finite Automaton (NFA) to a Dete
 | Hariharan A.s       | CB.EN.U4CSE22017 | [Hariharan](https://github.com/Harihar1269)   |
 | Daniyal Ahmad       | CB.EN.U4CSE22012 | [Daniyal](https://github.com/Daniyalahmad07) |
 
-**Your Role: Amit Kumar**
+## Roles: 
+
+1. Daniyal Ahmad:
+   - Research and Understand NFA to DFA conversion algorithms.
+   - Debug and correct errors in the code.
+
+2. Amit Kumar:
+   - Find and adapt existing code for NFA to DFA conversion.
+   - Document and finalize the codebase.
+
+3. B Mahesh Raj:
+   - Integrate graph visualization using libraries like Graphviz.
+   - Conduct initial research and understand conversion algorithms.
+
+4. Ananth Madhusoodanan:
+   - Adapt existing code for NFA to DFA conversion.
+   - Debug and fix errors in the codebase.
+
+5. Hariharan A.s:
+   - Integrate graph visualization using libraries like Graphviz.
+   - Document and finalize the codebase collaboratively.
+
 
 ## Table of Contents
 
