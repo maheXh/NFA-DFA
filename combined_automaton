@@ -1,0 +1,11 @@
+// Combined Automaton
+digraph {
+	A
+	A -> A [label=a]
+	A -> B [label=b]
+	B
+	B -> B [label=a]
+	B -> C [label=b]
+	C
+	C -> C [label=b]
+}
